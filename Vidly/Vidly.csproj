@@ -145,6 +145,10 @@
     <Compile Include="Migrations\202003130139264_AddMemberShipType.designer.cs">
       <DependentUpon>202003130139264_AddMemberShipType.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202003130157325_PopulateMemberShipTypes.cs" />
+    <Compile Include="Migrations\202003130157325_PopulateMemberShipTypes.designer.cs">
+      <DependentUpon>202003130157325_PopulateMemberShipTypes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\MemberShipType.cs" />
@@ -222,6 +226,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202003130139264_AddMemberShipType.resx">
       <DependentUpon>202003130139264_AddMemberShipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003130157325_PopulateMemberShipTypes.resx">
+      <DependentUpon>202003130157325_PopulateMemberShipTypes.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
