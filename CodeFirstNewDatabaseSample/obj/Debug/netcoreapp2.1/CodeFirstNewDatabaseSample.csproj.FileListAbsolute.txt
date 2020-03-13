@@ -1,0 +1,13 @@
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\bin\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.deps.json
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\bin\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.runtimeconfig.json
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\bin\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.runtimeconfig.dev.json
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\bin\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.dll
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\obj\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.csproj.CoreCompileInputs.cache
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\obj\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.AssemblyInfoInputs.cache
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\obj\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.AssemblyInfo.cs
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\bin\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.pdb
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\bin\Debug\netcoreapp2.1\EntityFramework.dll
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\bin\Debug\netcoreapp2.1\EntityFramework.xml
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\obj\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.csproj.CopyComplete
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\obj\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.dll
+C:\Users\costat\source\repos\Vidly\CodeFirstNewDatabaseSample\obj\Debug\netcoreapp2.1\CodeFirstNewDatabaseSample.pdb

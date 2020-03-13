@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\costat\\source\\repos\\Vidly\\CodeFirstNewDatabaseSample\\CodeFirstNewDatabaseSample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\costat\\source\\repos\\Vidly\\CodeFirstNewDatabaseSample\\CodeFirstNewDatabaseSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\costat\\source\\repos\\Vidly\\CodeFirstNewDatabaseSample\\CodeFirstNewDatabaseSample.csproj",
+        "projectName": "CodeFirstNewDatabaseSample",
+        "projectPath": "C:\\Users\\costat\\source\\repos\\Vidly\\CodeFirstNewDatabaseSample\\CodeFirstNewDatabaseSample.csproj",
+        "packagesPath": "C:\\Users\\costat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\costat\\source\\repos\\Vidly\\CodeFirstNewDatabaseSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\costat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
