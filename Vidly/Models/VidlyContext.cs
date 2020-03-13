@@ -6,7 +6,7 @@ using System.Data.Entity;
 
 namespace Vidly.Models
 {
-    public class teste  : Id
+  
     public class VidlyContext : DbContext
     {
         public VidlyContext() { }
